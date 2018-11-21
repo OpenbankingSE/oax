@@ -20,7 +20,7 @@ export const colors = [
 export default {
   title: 'OpenAPI Directory Lite',
   subTitle: 'Smaller version with full text search',
-  home: 'https://github.com/darosh/openapi-directory-lite',
+  home: 'https://github.com/openbankingse/openapi-directory-lite',
   base: indexPath(),
   keys: true,
   categories: true,
