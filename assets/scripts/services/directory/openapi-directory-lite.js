@@ -18,7 +18,7 @@ export const colors = [
 ]
 
 export default {
-  title: 'OpenAPI Directory Lite',
+  title: 'Swedish Open Banking & PSD2 APIs',
   subTitle: 'Smaller version with full text search',
   home: 'https://github.com/openbankingse/openapi-directory-lite',
   base: indexPath(),
