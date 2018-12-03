@@ -7,7 +7,7 @@ const fs = require('fs')
 const { URL } = require('url');
 global.URL = URL
 
-const url = 'https://raw.githubusercontent.com/OAI/OpenAPI-Specification/master/schemas/v2.0/schema.json'
+const url = 'https://raw.githubusercontent.com/OpenbankingSE/openapi-directory-lite/master/specs/developer.berlin-group.com/psd2-api%201.2%20Update%202018-08-17.yaml'
 const schema = new schemaBundler.Schema(url, null, yaml.load, axios.get)
 
 schema.load().then(() => {
