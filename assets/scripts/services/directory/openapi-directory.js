@@ -1,10 +1,10 @@
 import { colored } from './openapi-directory-lite'
 
 export default {
-  title: 'OpenAPI Directory',
+  title: 'Swedish Open Bank & PSD2 Directory',
   subTitle: 'Community driven online collection',
-  home: 'https://apis.guru/openapi-directory/',
-  base: 'https://api.apis.guru/v2/list.json',
+  home: 'https://openbank.se/',
+  base: 'https://openbank.se/list.json',
   keys: true,
   categories: true,
   unclassified: true,
